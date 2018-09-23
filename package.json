@@ -1,0 +1,12 @@
+{
+    "name": "test-test",
+    "version": "0.1.0",
+    "main": "./index.js",
+    "description": "",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^23.6.0"
+    }
+}
