@@ -11,7 +11,7 @@ test('it should return 42', done => {
         console.log(`test1`)
         expect(code).toBe(42)
         console.log(`test2`)
-        expect(result).toEqual({ x: 4 })
+        expect(result).toEqual({ a: 1 })
         console.log(`test3`)
         done()
     })
